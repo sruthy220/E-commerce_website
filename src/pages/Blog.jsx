@@ -43,11 +43,6 @@ const Blog = () => {
         </p>
       </div>
     </div>
-<br/>
-
-<br/>
-
-<br/>
 
     <Footer/>
  
