@@ -24,7 +24,7 @@ const CakesList = () => {
     // Save back to localStorage
     localStorage.setItem("cart", JSON.stringify(cart));
 
-    // alert(`${cake.name} added to cart!`);
+     alert(`${cake.name} added to cart!`);
   };
 
   return (
