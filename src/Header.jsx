@@ -13,7 +13,7 @@ import AdbIcon from '@mui/icons-material/Adb';
 import ShoppingCartIcon from '@mui/icons-material/ShoppingCart';
 import { useNavigate } from 'react-router-dom';
 
-const pages = ['Cakes', 'Pricing', 'Blog'];
+const pages = ['Cakes', 'Blog'];
 
 const Header = () => {
   const navigate = useNavigate();
