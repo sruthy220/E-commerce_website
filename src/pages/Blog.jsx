@@ -1,5 +1,5 @@
 import React from 'react';
-import Footer from '../components/Footer';
+
 
 const Blog = () => {
   return (
@@ -43,7 +43,7 @@ const Blog = () => {
         </p>
       </div>
     </div>
-         <Footer/>
+       
     </>
   );
 };
