@@ -43,6 +43,7 @@ const Blog = () => {
         </p>
       </div>
     </div>
+         <Footer/>
     </>
   );
 };
